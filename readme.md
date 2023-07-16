@@ -39,6 +39,10 @@ Function should be defined so that:
 - ![Screenshot from 2023-07-16 17-38-43](https://github.com/chanakyavasantha/LearnPython/assets/93817654/75105a66-2635-4204-952b-c4e75ade3ec0)
 - ![Screenshot from 2023-07-16 17-38-06](https://github.com/chanakyavasantha/LearnPython/assets/93817654/35a382e4-a53d-4d57-9189-b0321932bf54)
 
+#### Exercise on Functions:
+- Write a fucntion to check , whether a given number is prime.
+    - Usse boh Brute Force Approach, and Optimized Approach
+- 
 
 
 

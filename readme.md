@@ -14,6 +14,11 @@
 ![Screenshot from 2023-07-13 14-10-27](https://github.com/chanakyavasantha/LearnPython/assets/93817654/fa943176-c733-4106-a3f9-a9678427fe6f)
 ![Screenshot from 2023-07-13 14-11-19](https://github.com/chanakyavasantha/LearnPython/assets/93817654/520c8aa3-24e5-405f-b4da-28eb66e215f1)
 
+#### Questions on loops in python:
+  - Find Sum of first **n** natural numbers in python
+  - Optimized Approach
+  ![Screenshot from 2023-07-16 17-09-40](https://github.com/chanakyavasantha/LearnPython/assets/93817654/fba0a3ee-8f29-4d23-bad7-ebe6b21c4a79)
+
 #### Functions in python:
 ![Screenshot from 2023-07-13 14-16-00](https://github.com/chanakyavasantha/LearnPython/assets/93817654/57f0fed5-b2e6-4e87-be51-83fd11a9cdd9)
 Function should be defined so that:
@@ -23,16 +28,13 @@ Function should be defined so that:
 - The produced will also have some specific data type
 ![Uploading Screenshot from 2023-07-13 14-18-38.png
 - Similiarly we have input data type and out put data type for a function in python
-- The putput data type is called return type
+- The output data type is called return type
 #### Examples:
 - What is the return type for input()?
   - String
   - ![Screenshot from 2023-07-13 14-21-22](https://github.com/chanakyavasantha/LearnPython/assets/93817654/71517e06-2c4c-4546-9136-0a8fdbdd6fb8)
   - ![Screenshot from 2023-07-13 14-26-42](https://github.com/chanakyavasantha/LearnPython/assets/93817654/7ce3d51c-cbfc-4c26-98b8-fda0c1738161)
-#### Questions on loops in python:
-  - Find Sum of first **n** natural numbers in python
-  - Optimized Approach
-  ![Screenshot from 2023-07-16 17-09-40](https://github.com/chanakyavasantha/LearnPython/assets/93817654/fba0a3ee-8f29-4d23-bad7-ebe6b21c4a79)
+
 
 
 

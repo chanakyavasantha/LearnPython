@@ -36,7 +36,8 @@ Function should be defined so that:
   - ![Screenshot from 2023-07-13 14-21-22](https://github.com/chanakyavasantha/LearnPython/assets/93817654/71517e06-2c4c-4546-9136-0a8fdbdd6fb8)
   - ![Screenshot from 2023-07-13 14-26-42](https://github.com/chanakyavasantha/LearnPython/assets/93817654/7ce3d51c-cbfc-4c26-98b8-fda0c1738161)
 - Write a function in python that tells whether a given numbers is an even number:
-- 
+- ![Screenshot from 2023-07-16 17-38-43](https://github.com/chanakyavasantha/LearnPython/assets/93817654/75105a66-2635-4204-952b-c4e75ade3ec0)
+- ![Screenshot from 2023-07-16 17-38-06](https://github.com/chanakyavasantha/LearnPython/assets/93817654/35a382e4-a53d-4d57-9189-b0321932bf54)
 
 
 

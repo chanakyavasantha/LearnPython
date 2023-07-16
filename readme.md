@@ -41,8 +41,12 @@ Function should be defined so that:
 
 #### Exercise on Functions:
 - Write a fucntion to check , whether a given number is prime.
-    - Usse boh Brute Force Approach, and Optimized Approach
-- 
+    - Use both Brute Force Approach, and Optimized Approach
+- Write a function that takes two integers as parameters and returns their sum.
+- Write a function that takes a list of numbers as input and returns the largest number in the list.
+- Implement a function that reverses a given string.
+- Implement a function that takes a list of words and returns a new list with the words sorted in alphabetical order.
+- Write a function that removes duplicates from a list
 
 
 

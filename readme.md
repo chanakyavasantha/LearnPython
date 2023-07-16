@@ -18,6 +18,7 @@
   - Find Sum of first **n** natural numbers in python
   - Optimized Approach
   ![Screenshot from 2023-07-16 17-09-40](https://github.com/chanakyavasantha/LearnPython/assets/93817654/fba0a3ee-8f29-4d23-bad7-ebe6b21c4a79)
+  - Better Alogorithms could solve problems in a optimized approach
 
 #### Functions in python:
 ![Screenshot from 2023-07-13 14-16-00](https://github.com/chanakyavasantha/LearnPython/assets/93817654/57f0fed5-b2e6-4e87-be51-83fd11a9cdd9)
@@ -34,7 +35,8 @@ Function should be defined so that:
   - String
   - ![Screenshot from 2023-07-13 14-21-22](https://github.com/chanakyavasantha/LearnPython/assets/93817654/71517e06-2c4c-4546-9136-0a8fdbdd6fb8)
   - ![Screenshot from 2023-07-13 14-26-42](https://github.com/chanakyavasantha/LearnPython/assets/93817654/7ce3d51c-cbfc-4c26-98b8-fda0c1738161)
-
+- Write a function in python that tells whether a given numbers is an even number:
+- 
 
 
 

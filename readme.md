@@ -32,7 +32,7 @@ Function should be defined so that:
 - The output data type is called return type
 #### Examples:
 - What is the return type for input()?
-  - String
+  - String is the return type of input() function 
   - ![Screenshot from 2023-07-13 14-21-22](https://github.com/chanakyavasantha/LearnPython/assets/93817654/71517e06-2c4c-4546-9136-0a8fdbdd6fb8)
   - ![Screenshot from 2023-07-13 14-26-42](https://github.com/chanakyavasantha/LearnPython/assets/93817654/7ce3d51c-cbfc-4c26-98b8-fda0c1738161)
 - Write a function in python that tells whether a given numbers is an even number:

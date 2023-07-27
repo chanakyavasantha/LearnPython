@@ -82,6 +82,18 @@ c = SUM(a,b)
 print(c)
 ```
 - Write a function that takes a list of numbers as input and returns the largest number in the list.
+```
+## Python Program to design a function that finds maximum in a list
+def FindMax(li):
+  Max = li[0]
+  for i in range(len(li)):
+    if li[i] > Max:
+      Max = li[i]
+  return Max
+li = list(map(int,input().split()))
+c = FindMax(li)
+print(c)
+```
 - Implement a function that reverses a given string.
 - Implement a function that takes a list of words and returns a new list with the words sorted in alphabetical order.
 - Write a function that removes duplicates from a list

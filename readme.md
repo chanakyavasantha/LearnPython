@@ -72,6 +72,15 @@ else:
 
 ```
 - Write a function that takes two integers as parameters and returns their sum.
+```
+## Python Program to design a function that returns sum
+def SUM(a,b):
+  return a+b
+a = int(input("Enter a: "))
+b = int(input("Enter b: "))
+c = SUM(a,b)
+print(c)
+```
 - Write a function that takes a list of numbers as input and returns the largest number in the list.
 - Implement a function that reverses a given string.
 - Implement a function that takes a list of words and returns a new list with the words sorted in alphabetical order.

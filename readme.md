@@ -56,6 +56,21 @@ else:
   print("The gven number is prime")
 
 ```
+```
+## Python Program to check whether a given number is prime
+import math
+n = int(input()) # taking input from user
+flag = 0
+for i in range(2,int(math.sqrt(n))+1):
+  if n % i == 0:
+    flag = 1
+    break
+if flag == 1:
+  print("The given number is not prime")
+else:
+  print("The gven number is prime")
+
+```
 - Write a function that takes two integers as parameters and returns their sum.
 - Write a function that takes a list of numbers as input and returns the largest number in the list.
 - Implement a function that reverses a given string.

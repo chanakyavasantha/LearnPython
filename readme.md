@@ -43,7 +43,7 @@ Function should be defined so that:
 - Write a fucntion to check , whether a given number is prime.
     - Use both Brute Force Approach, and Optimized Approach
 ```
-## Python Program to check whether a given number is prime
+## Python Program to check whether a given number is prime , Brute Force Approach
 n = int(input()) # taking input from user
 flag = 0
 for i in range(2,n):
@@ -57,7 +57,7 @@ else:
 
 ```
 ```
-## Python Program to check whether a given number is prime
+## Python Program to check whether a given number is prime , Optimized Approach
 import math
 n = int(input()) # taking input from user
 flag = 0

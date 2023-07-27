@@ -94,6 +94,12 @@ li = list(map(int,input().split()))
 c = FindMax(li)
 print(c)
 ```
+**ONE LINE CODE**
+```
+li = list(map(int,input().split()))
+c = max(li)
+print(c)
+```
 - Implement a function that reverses a given string.
 - Implement a function that takes a list of words and returns a new list with the words sorted in alphabetical order.
 - Write a function that removes duplicates from a list

@@ -94,7 +94,7 @@ li = list(map(int,input().split()))
 c = FindMax(li)
 print(c)
 ```
-**ONE LINE CODE**
+- **ONE LINE CODE**
 ```
 li = list(map(int,input().split()))
 c = max(li)

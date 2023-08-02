@@ -128,8 +128,8 @@ li = list(map(input().split()))
 Li = SortedList(li)
 print(Li)
 ```
--**split Function in python**:
--**li = list(map(input().split()))** How does this work?
+**split Function in python**:
+**li = list(map(input().split()))** How does this work?
 
 - Write a function that removes duplicates from a list
 

@@ -111,6 +111,7 @@ def rev(a):
     b += a[i]
   return b # b will have reversed string
 a = "chanakya"
+print(rev(a))
 ```
 - Implement a function that takes a list of words and returns a new list with the words sorted in alphabetical order.
 - Write a function that removes duplicates from a list

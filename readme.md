@@ -1,6 +1,9 @@
+
+
+**range function in python**:
+![Screenshot from 2023-08-02 21-01-07](https://github.com/chanakyavasantha/LearnPython/assets/93817654/157b3a8d-3088-43aa-b578-c6722eeba6e6)
+
 ![Screenshot from 2023-07-13 14-18-38](https://github.com/chanakyavasantha/LearnPython/assets/93817654/24bc738d-07b0-4bb8-a57a-ae8c4949bdd8)# Learn Python 
-
-
 # Questions on loops in python:
 - counting Number of Digits in a given number
 ![Screenshot from 2023-07-12 14-02-38](https://github.com/chanakyavasantha/LearnPython/assets/93817654/60fad804-a55e-4ccc-9430-901e9e77e3ab)

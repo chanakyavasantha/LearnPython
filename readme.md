@@ -113,6 +113,11 @@ def rev(a):
 a = "chanakya"
 print(rev(a))
 ```
+```
+a = "kushik"
+b = a[::-1]
+print(b)
+```
 - Implement a function that takes a list of words and returns a new list with the words sorted in alphabetical order.
 - Write a function that removes duplicates from a list
 

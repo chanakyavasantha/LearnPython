@@ -120,6 +120,14 @@ b = a[::-1]
 print(b)
 ```
 - Implement a function that takes a list of words and returns a new list with the words sorted in alphabetical order.
+```
+def SortedList(li):
+  li.sort()
+  return li
+li = list(map(input().split()))
+Li = SortedList(li)
+print(Li)
+```
 - Write a function that removes duplicates from a list
 
 

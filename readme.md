@@ -104,6 +104,14 @@ c = max(li)
 print(c)
 ```
 - Implement a function that reverses a given string.
+```
+def rev(a):
+  b = ""
+  for i in range(len(a)-1,-1,-1):
+    b += a[i]
+  return b # b will have reversed string
+a = "chanakya"
+```
 - Implement a function that takes a list of words and returns a new list with the words sorted in alphabetical order.
 - Write a function that removes duplicates from a list
 

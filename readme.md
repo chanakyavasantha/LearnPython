@@ -104,6 +104,7 @@ c = max(li)
 print(c)
 ```
 - Implement a function that reverses a given string.
+![Screenshot from 2023-08-02 21-37-54](https://github.com/chanakyavasantha/LearnPython/assets/93817654/9dce7697-cb93-45c6-b364-ea5e559b91cc)
 ```
 def rev(a):
   b = ""

@@ -146,8 +146,11 @@ print(li)
 
 
 - Write a function that removes duplicates from a list
+![Screenshot from 2023-08-03 21-44-04](https://github.com/chanakyavasantha/LearnPython/assets/93817654/ddf2f2a7-c69c-4fb1-9bd3-4dfdfac82cf0)
 
 
+- How Does jupyter notebook Work, How does it stores local variables data, how data is overriden?
+  
 
 
 

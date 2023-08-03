@@ -130,6 +130,20 @@ print(Li)
 ```
 **split Function in python**<br>
 **li = list(map(input().split()))** How does this work?
+- Some Examples on split() function in python
+![Screenshot from 2023-08-03 21-15-20](https://github.com/chanakyavasantha/LearnPython/assets/93817654/bf4e84b3-83d1-45e1-8ef1-35c08c2454a6)
+- input() returns a string by default
+- split() returns a list, it's argumnent is the seperator , default seperator is space
+- input().split() returns a list of string seperated at space
+- map type casts a list with given data type. and returns a map object.
+- map object could be converted into list by list(map(....
+- list(map(int,input().split())) returns a list of integers by mapping strings to their corresponding integer values.
+```
+li = list(map(int,['2','3','4']))
+print(li)
+```
+![Screenshot from 2023-08-03 21-21-02](https://github.com/chanakyavasantha/LearnPython/assets/93817654/05830a58-34d1-4a45-a257-19e718191804)
+
 
 - Write a function that removes duplicates from a list
 

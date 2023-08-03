@@ -124,12 +124,12 @@ print(b)
 def SortedList(li):
   li.sort()
   return li
-li = list(map(input().split()))
+li = input().split()
 Li = SortedList(li)
 print(Li)
 ```
 **split Function in python**<br>
-**li = list(map(input().split()))** How does this work?
+**li = list(map(int,input().split()))** How does this work?
 - Some Examples on split() function in python
 ![Screenshot from 2023-08-03 21-15-20](https://github.com/chanakyavasantha/LearnPython/assets/93817654/bf4e84b3-83d1-45e1-8ef1-35c08c2454a6)
 - input() returns a string by default

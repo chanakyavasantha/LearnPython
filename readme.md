@@ -1,5 +1,6 @@
 # PYTHON BASICS:
 <hr>
+
 **range function in python**:
 ![Screenshot from 2023-08-02 21-01-07](https://github.com/chanakyavasantha/LearnPython/assets/93817654/157b3a8d-3088-43aa-b578-c6722eeba6e6)
 
